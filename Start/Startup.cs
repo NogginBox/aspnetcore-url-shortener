@@ -93,7 +93,7 @@ namespace UrlShortener.Start
             app.UseAuthentication();
             app.UseAuthorization();
 
-            app.UseHttpsRedirection();
+            //app.UseHttpsRedirection();
             app.UseStaticFiles();
             //app.UseCookiePolicy();
 

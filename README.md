@@ -1,14 +1,6 @@
 # ASP.NET Core MVC URL Shortener
 A basic implementation of an URL shortener web application using ASP.NET Core MVC and Entity Framework Core.
 
-## Goal
-
-I've started this little project in order to have a support during my approach of ASP.NET Core MVC.
-
-My idea was to implement a simple web application using the framework.
-
-I've chosen to implement an URL shortener application because it's pretty simple.
-
 ## Algorithm
 
 So, how works an URL shortener?
@@ -44,7 +36,3 @@ Then, simply type `dotnet run` on your command prompt and then browse to http://
 **Screenshot of the web application:**
 
 ![Screenshot of the ASP.NET Core MVC URL Shortener web application](https://github.com/fxmauricard/aspnetcore-url-shortener/blob/master/UrlShortener-screenshot.png)
-
-## Conclusion
-
-ASP.NET Core allowed me to do this simple app in the quickest way. So that, I've doing more investigations about the framework.
